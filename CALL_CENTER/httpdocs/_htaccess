@@ -1,0 +1,10 @@
+<Files .htaccess>
+Order allow,deny
+Deny from all
+</Files>
+
+
+Order deny,allow
+Deny from all
+Allow from 2.139.228.123
+Allow from 79.148.245.80
